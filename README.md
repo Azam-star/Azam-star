@@ -1,102 +1,18 @@
-## Hi there 👋
-# 👋 Hi, I'm Shaik Abdullah Azam
+# 💫 About Me:
+Hi there 👋<br>👋 Hi, I'm Shaik Abdullah Azam<br>🤖 AI & Data Science Student | 💻 Developer | 📊 Data Enthusiast<br>Welcome to my GitHub! I'm passionate about Artificial Intelligence, Data Science, Machine Learning, and Software Development. I enjoy building projects, exploring new technologies, and turning ideas into practical solutions.<br><br>🚀 About Me<br>🎓 Student interested in AI & Data Science<br>🤖 Exploring Artificial Intelligence & Machine Learning<br>📊 Interested in Data Analysis & Data Visualization<br>💻 Building projects to improve my programming skills<br>🌱 Currently learning and experimenting with new technologies<br>🎯 Goal: Build useful, real-world technology solutions<br>🛠️ Skills & Technologies<br>Programming<br>🐍 Python<br>☕ Java<br>💻 C / C++<br>🌐 HTML & CSS<br>🗄️ SQL<br>AI & Data Science<br>Machine Learning<br>Data Analysis<br>Data Visualization<br>Artificial Intelligence<br>Python for Data Science<br>Tools & Platforms<br>Git & GitHub<br>Jupyter Notebook<br>VS Code<br>Google Colab<br>MySQL<br>📌 Featured Projects<br>🤖 Artificial Intelligence Projects<br>Projects exploring AI concepts and intelligent systems.<br><br>📊 Data Science Projects<br>Data analysis and visualization projects using real-world datasets.<br><br>💻 Programming Projects<br>Projects created to strengthen programming, problem-solving, and software development skills.<br><br>📈 What I'm Currently Working On<br>Learning advanced Python<br>Exploring Machine Learning<br>Building AI & Data Science projects<br>Improving problem-solving skills<br>Learning Git & GitHub workflows<br>🌱 My Goal<br>Learn → Build → Experiment → Improve → Share<br><br>I believe the best way to learn technology is by building projects and solving real-world problems.<br><br>📫 Connect With Me<br>Feel free to explore my repositories and connect with me!<br><br>⭐ If you find any of my projects interesting, consider giving them a star.
 
-### 🤖 AI & Data Science Student | 💻 Developer | 📊 Data Enthusiast
 
-Welcome to my GitHub! I'm passionate about **Artificial Intelligence, Data Science, Machine Learning, and Software Development**. I enjoy building projects, exploring new technologies, and turning ideas into practical solutions.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/shaikabdullahazam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shaik-abdullah-azam-a9b266378?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:basheeraazam02@gmail.com) 
 
----
-
-## 🚀 About Me
-
-* 🎓 Student interested in **AI & Data Science**
-* 🤖 Exploring **Artificial Intelligence & Machine Learning**
-* 📊 Interested in **Data Analysis & Data Visualization**
-* 💻 Building projects to improve my programming skills
-* 🌱 Currently learning and experimenting with new technologies
-* 🎯 Goal: Build useful, real-world technology solutions
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Azam-star&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Azam-star&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Azam-star&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Azam-star&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Skills & Technologies
-
-### Programming
-
-* 🐍 Python
-* ☕ Java
-* 💻 C / C++
-* 🌐 HTML & CSS
-* 🗄️ SQL
-
-### AI & Data Science
-
-* Machine Learning
-* Data Analysis
-* Data Visualization
-* Artificial Intelligence
-* Python for Data Science
-
-### Tools & Platforms
-
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
-* Google Colab
-* MySQL
-
----
-
-## 📌 Featured Projects
-
-### 🤖 Artificial Intelligence Projects
-
-Projects exploring AI concepts and intelligent systems.
-
-### 📊 Data Science Projects
-
-Data analysis and visualization projects using real-world datasets.
-
-### 💻 Programming Projects
-
-Projects created to strengthen programming, problem-solving, and software development skills.
-
----
-
-## 📈 What I'm Currently Working On
-
-* Learning advanced Python
-* Exploring Machine Learning
-* Building AI & Data Science projects
-* Improving problem-solving skills
-* Learning Git & GitHub workflows
-
----
-
-## 🌱 My Goal
-
-> **Learn → Build → Experiment → Improve → Share**
-
-I believe the best way to learn technology is by building projects and solving real-world problems.
-
----
-
-## 📫 Connect With Me
-
-Feel free to explore my repositories and connect with me!
-
-⭐ If you find any of my projects interesting, consider giving them a star.
-
-<!--
-**Azam-star/Azam-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
