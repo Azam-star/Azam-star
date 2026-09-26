@@ -8,6 +8,7 @@
 
 <br/>
 
+<a href="https://www.linkedin.com/in/shaik-abdullah-azam-a9b266378/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Azam-star"><img src="https://img.shields.io/badge/GITHUB-172554?style=flat-square&logo=github&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=Azam-star&style=flat-square&color=2563eb&label=PROFILE+VIEWS"/>
 
@@ -81,14 +82,13 @@ Experimenting with AI agents and workflow automation.
 ![AI Agents](https://img.shields.io/badge/AI_Agents-7C3AED?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ### ⚙️ Tools
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
 
 </div>
 
@@ -239,6 +239,7 @@ Let's build something interesting.
 
 <br/>
 
+<a href="https://www.linkedin.com/in/shaik-abdullah-azam-a9b266378/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Azam-star"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 <br/><br/>
